@@ -9,7 +9,7 @@ const header = () => {
     <div className="navigatin-icons">
       <div className="trans links">My Assignment</div>
       <div className="trans links">Chat with Mentor</div>
-      <div className=" links active"> <img className='profile-img' src="public/profile.png" alt="" /> Profile Name <img className='down-arrow' src="public/down.png" alt="" /> </div>
+      <div className=" links active"> <img className='profile-img' src="/profile.png" alt="" /> Profile Name <img className='down-arrow' src="/down.png" alt="" /> </div>
     </div>
     </div>  
   )
