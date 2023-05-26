@@ -83,7 +83,7 @@ const ReferEarn = () => {
 
       <div className="task">
         <div className="img-wrap">
-          <img src="../public/invite.png" alt="img" />
+          <img src="/invite.png" alt="img" />
         </div>
         <div className='details'>
           <p>Invite your Friends</p>
@@ -93,7 +93,7 @@ const ReferEarn = () => {
 
       <div className="task">
         <div className="img-wrap">
-          <img src="../public/rupes.png" alt="img" />
+          <img src="/rupes.png" alt="img" />
         </div>
         <div className='details'>
           <p>You get ₹ 200 as referral money</p>
@@ -103,7 +103,7 @@ const ReferEarn = () => {
 
       <div className="task">
         <div className="img-wrap">
-          <img src="../public/walet.png" alt="img" />
+          <img src="/walet.png" alt="img" />
         </div>
         <div className='details'>
           <p>Transfer money from wallet</p>
@@ -114,7 +114,7 @@ const ReferEarn = () => {
 
       <div className="task">
         <div className="img-wrap">
-          <img src="../public/coupon.png" alt="img" />
+          <img src="/coupon.png" alt="img" />
         </div>
         <div className='details'>
           <p>Friend purchases any course</p>
@@ -124,7 +124,7 @@ const ReferEarn = () => {
 
       <div className="task">
         <div className="img-wrap">
-          <img src="../public/discount.png" alt="img" />
+          <img src="/discount.png" alt="img" />
         </div>
         <div className='details'>
           <p>Your Friend gets ₹ 200 Off </p>
