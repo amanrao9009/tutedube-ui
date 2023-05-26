@@ -14,7 +14,7 @@ const FriendsRefer = () => {
         <div>UI/UX {'>'}  Refer & Earn  {'>'} Friends Referred </div>
       </div>
 
-     <Link to="/"><img src="public/goback.png" alt="img" className="goback" /></Link> 
+     <Link to="/"><img src="/goback.png" alt="img" className="goback" /></Link> 
 
       
      <div className='code-wallet'>
